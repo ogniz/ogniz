@@ -1,9 +1,0 @@
-name: GoldPan
-main: ogniz.Main
-version: 1.0
-author: OGNiz
-api-version: 1.13
-commands:
- goldpan:
-  description: Main command for Gold Pan.
-  usage: /goldpan
